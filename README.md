@@ -1,16 +1,58 @@
-# React + Vite
+# 🎨 Color Clock App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application that displays the current date and time using a dynamic clock.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- Displays real-time date and time
+- Uses `date-fns` for formatting
+- Styled with modern CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React (JavaScript)
+- Vite
+- date-fns
+
+---
+
+## ⚙️ Installation
+1. **Create the folder**
+```bash
+mkdir react-clock
+```
+2. **Move into the folder**
+```bash
+cd react-clock
+```
+3. **Fork the repository**
+4. **Clone the forked repository:**
+```bash
+git clone https://github.com/your-username/color-clock.git
+cd color-clock
+```
+5. **Install dependencies:**
+```bash
+npm install
+```
+6. **Run the app:**
+```bash
+npm run dev
+```
+## 📸 Screenshot
+
+<img width="891" height="522" alt="image" src="https://github.com/user-attachments/assets/8e4e0c70-0107-4aad-a09a-8bb1b1fec956" />
+
+
+## 📚 Learning Outcomes
+- Understanding React components
+- Using useState and useEffect
+- Working with npm packages
+- Formatting dates using date-fns
+## 👨‍💻 Author
+
+Deogracious Moriasi
